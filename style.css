@@ -1,0 +1,44 @@
+#Moi {
+	width: 200px;
+	height: 200px;
+	border radius: 50%;
+	object-fit: cover;
+	margin: align;
+}
+
+#banniere {
+	background-color: #219ebc;
+	padding: 25px;
+	margin: 0px;
+	border-radius: 20px;
+	font-family: poppins;
+}
+#flex {
+	display: flex;
+}
+.cv {
+	box-shadow: 5px 5px 5px;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+	background-color: 90e0ef;
+	font-family: poppins;
+}
+.cv2 {
+	box-shadow: 5px 5px 5px;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+	font-family: poppins;
+}
+.cv3 {
+	box-shadow: 5px 5px 5px;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+	font-family: poppins;
+}
+#EFJ {
+	float: right;
+	padding: 75px;
+}
